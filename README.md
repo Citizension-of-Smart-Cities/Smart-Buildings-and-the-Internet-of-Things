@@ -1,4 +1,4 @@
-# IEEE_TISP_Smart_Buildings_and_the_Internet_of_Things
+# IEEE_TISP_Smart_Buildings_and_the_IoT
 
 ## Description
 Το αποθετήριο προορίζεται για χρήση στο STEM Workshop που θα γίνει στην Πτολεμαΐδα την Δευτέρα 17/5/2019 με θέμα Smart Buildings and the Internet of Things. Το Workshop βασίζεται στο σενάριο https://tryengineering.org/teacher/smart-buildings-and-internet-things/ το οποίο έχει επεκταθεί με την πλατφόρμα Ubidots. 

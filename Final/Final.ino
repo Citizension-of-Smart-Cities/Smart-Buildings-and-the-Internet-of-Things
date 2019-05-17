@@ -1,7 +1,15 @@
+/********************************
+ * Libraries included
+ *******************************/
+
 #include <Ethernet.h>
 #include <SPI.h>
 #include <UbidotsEthernet.h>
 #include <SimpleDHT.h>
+
+/********************************
+ * Constants and objects
+ *******************************/
 
 char const * TOKEN = "tokenhere"; // Assign your Ubidots TOKEN
 char const * VARIABLE_LABEL_1 = "temperature"; // Assign the unique variable label to send the data
@@ -18,6 +26,10 @@ int value;       // Store value from photoresistor (0-1023)
 byte mac[] = { 0x69, 0x69, 0x69, 0x69, 0x69, 0x69 };
 
 Ubidots client(TOKEN);
+
+/********************************
+ * Main Functions
+ *******************************/
 
 void setup() 
 {

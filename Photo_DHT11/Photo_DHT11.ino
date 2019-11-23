@@ -16,8 +16,7 @@ void setup()
 void loop()
 {
   value = analogRead(pResistor);
-  Serial.print(value);
-  Serial.print("\n");
+  Serial.println(value);
    // read without samples.
   byte temperature = 0;
   byte humidity = 0;

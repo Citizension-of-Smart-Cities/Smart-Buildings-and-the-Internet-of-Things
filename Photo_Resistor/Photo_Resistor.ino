@@ -12,6 +12,6 @@ void setup()
 void loop()
 {
   value = analogRead(pResistor);
-  Serial.print(value);
+  Serial.println(value);
   delay(500); //Small delay
 }

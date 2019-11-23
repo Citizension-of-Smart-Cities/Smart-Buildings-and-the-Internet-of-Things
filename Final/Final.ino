@@ -57,8 +57,7 @@ void loop()
   /* Sensors readings */
   value = analogRead(pResistor);
   
-  Serial.print(value);
-  Serial.print("\n");
+  Serial.println(value);
   
   byte temperature = 0;
   byte humidity = 0;

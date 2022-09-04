@@ -17,7 +17,7 @@ Challenge 3/Photo_DHT11/Photo_DHT11.ino
 https://help.ubidots.com/connect-your-devices/connect-an-arduino-uno-ethernet-shield-to-ubidots-over-http
 Challenge 4/Final/Final.ino
 
-Στο αποθετήριο υπάρχουν το σχηματικό της κάθε φάσης τα οποία δημιουργήθηκαν με την χρήση του εργαλείου fritzing, ο κώδικας Arduino και το σενάριο μεταφρασμένο στα ελληνικά θα το βρείτε: https://ieee.cs.uowm.gr/citizension/smart-buildings-and-the-internet-of-things/
+Στο αποθετήριο υπάρχουν το σχηματικό της κάθε φάσης τα οποία δημιουργήθηκαν με την χρήση του εργαλείου fritzing και ο κώδικας Arduino. Το σενάριο μεταφρασμένο στα ελληνικά θα το βρείτε: https://ieee.cs.uowm.gr/citizension/smart-buildings-and-the-internet-of-things/
 
 ## Tools needed
 - 1 x Arduino Uno

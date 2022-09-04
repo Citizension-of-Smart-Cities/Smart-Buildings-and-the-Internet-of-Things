@@ -13,5 +13,5 @@ Challenge 3/Photo_DHT11/Photo_DHT11.ino
 ## Usage
 - Τις βιβλιοθήκες θα τις βρείς στο Libraries
 - Μπορείς αν θες να κατεβάσεις το Fritzing απο εδω: http://fritzing.org/download/ έτσι ώστε να μπορείς να αλλάξεις τον κώδικα.
-![schematic](Photo_DHT11/Photo_DHT11.png)
+![schematic](Final/Final.png)
 
